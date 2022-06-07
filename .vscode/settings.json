@@ -1,0 +1,9 @@
+{
+    "python.formatting.provider": "black",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.linting.flake8Enabled": false,
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.formatOnSave": true,
+    "eslint.format.enable": true
+}
